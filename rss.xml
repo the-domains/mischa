@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mischa]]></title>
+        <description><![CDATA[mischa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 04:35:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Purpose]]></title>
+            <description><![CDATA[<p>I'd like to use this place to gather things I find motivating. Whether it's on the internet or in the the meatspace. My first topic? The dog my wife and I recently adopted, named Uma Loodle (You can follower her on the grams, the tweets, and the Book). </p>]]></description>
+            <link>undefinedpurpose/index.html</link>
+            <guid isPermaLink="false">81b8fdc8-5f82-4f2e-8572-189a37f9c5e5</guid>
+            <pubDate>Mon, 18 Jul 2016 04:35:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
